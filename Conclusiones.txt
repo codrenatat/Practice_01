@@ -1,0 +1,3 @@
+En esta practica aprendí a unir en una sola pagina todo lo que vimos a lo largo de las últimas clases. Tuve que poner a prueba todas las herramientas que usamos para poder hacer que mi página web tuviera las funcionalidades y imagen que quería.
+Lo que más me costo trabajo fue la parte del carrito de compras y entender como tenía que organizar los elementos dentro de esta sección para que se viera como quería.
+Si le invertí más tiempo del que pensaba a la practica alrededor de 3 días le dedique a la practica. Creo que otra cosa que hizo la practica mas lenta fue toda la parte del diseño como las fotos, tipografia, organización, etc.
